@@ -60,7 +60,7 @@ const HomePage: React.FC = () => {
 
       {/* Thêm ảnh ở giữa background */}
       <img
-        src="../public/images/imgthumb.png"
+        src="https://cdn4.iconfinder.com/data/icons/wonderful-christmas-3d-1/512/1._House_1024.png"
         alt="Center Image"
         className="absolute z-10 object-cover"
         style={{ top: "45%", left: "50%", transform: "translate(-50%, -50%)" }}
